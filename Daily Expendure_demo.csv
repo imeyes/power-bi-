@@ -1,0 +1,565 @@
+Date,purpose,Category,Mode,Cash In,Cash Out,Balance,Custom
+"Monday, March 21, 2022",Tea,Drink,Amazon Pay,,10,4690,TRUE
+"Monday, April 11, 2022",Tea,Drink,Paytm,,10,3624,TRUE
+"Tuesday, April 19, 2022",Tea,Drink,Google Pay,,10,3154,TRUE
+"Thursday, April 21, 2022",Tea,Drink,Paytm,,10,2649,TRUE
+"Sunday, April 24, 2022",Mango Juice,Drink,PhonePe,,10,2229,TRUE
+"Monday, April 25, 2022",Tea,Drink,Google Pay,,10,2199,TRUE
+"Monday, April 25, 2022",Kokam,Drink,Google Pay,,10,2149,TRUE
+"Thursday, April 28, 2022",Tea,Drink,Google Pay,,10,544,FALSE
+"Friday, April 29, 2022",Tea,Drink,Google Pay,,10,469,FALSE
+"Sunday, May 1, 2022",Tea,Drink,Google Pay,,10,7250,TRUE
+"Wednesday, May 4, 2022",Tea,Drink,Google Pay,,10,6883,TRUE
+"Sunday, May 8, 2022",Tea,Drink,Google Pay,,10,6622,TRUE
+"Saturday, May 21, 2022",Sugarcane Juice,Drink,Google Pay,,10,2232,TRUE
+"Monday, May 23, 2022",Tea,Drink,Google Pay,,10,2023,TRUE
+"Tuesday, May 24, 2022",Tea,Drink,Google Pay,,10,1958,TRUE
+"Wednesday, May 25, 2022",Tea,Drink,Google Pay,,10,1848,TRUE
+"Thursday, May 26, 2022",Tea,Drink,Google Pay,,10,1514,TRUE
+"Saturday, May 28, 2022",Sugarcane Juice,Drink,Google Pay,,10,1220,TRUE
+"Sunday, May 29, 2022",Tea,Drink,Google Pay,,10,1190,TRUE
+"Monday, June 13, 2022",Tea,Drink,Google Pay,,10,2988,TRUE
+"Tuesday, June 14, 2022",Tea,Drink,Google Pay,,10,2647,TRUE
+"Thursday, June 16, 2022",Tea,Drink,Google Pay,,10,2565,TRUE
+"Friday, June 17, 2022",Tea,Drink,Google Pay,,10,2435,TRUE
+"Sunday, June 19, 2022",Tea,Drink,Google Pay,,10,2225,TRUE
+"Thursday, June 23, 2022",Tea,Drink,Google Pay,,10,1412,TRUE
+"Saturday, June 25, 2022",Tea,Drink,Google Pay,,10,1271,TRUE
+"Sunday, June 26, 2022",Tea,Drink,Google Pay,,10,1161,TRUE
+"Monday, June 27, 2022",Tea,Drink,Google Pay,,10,1085,TRUE
+"Tuesday, June 28, 2022",Coffee,Drink,Google Pay,,10,975,FALSE
+"Thursday, June 30, 2022",Tea,Drink,Google Pay,,10,825,FALSE
+"Friday, July 1, 2022",Tea,Drink,Google Pay,,10,4595,TRUE
+"Saturday, July 2, 2022",Tea,Drink,Google Pay,,10,4585,TRUE
+"Saturday, July 2, 2022",Tea,Drink,Google Pay,,10,4575,TRUE
+"Monday, July 4, 2022",Tea,Drink,Google Pay,,10,4476,TRUE
+"Tuesday, July 5, 2022",Tea,Drink,Google Pay,,10,4085,TRUE
+"Monday, July 25, 2022",Coffee,Drink,Google Pay,,10,414,FALSE
+"Tuesday, July 26, 2022",Tea,Drink,Google Pay,,10,349,FALSE
+"Thursday, July 28, 2022",Tea ?,Drink,Google Pay,,10,274,FALSE
+"Thursday, July 28, 2022",Coffee ?,Drink,Google Pay,,10,194,FALSE
+"Friday, July 29, 2022",Tea ?,Drink,Google Pay,,10,104,FALSE
+"Saturday, July 30, 2022",Tea ?,Drink,Google Pay,,10,20,FALSE
+"Sunday, July 31, 2022",Tea ?,Drink,Google Pay,,10,-10,FALSE
+"Monday, August 1, 2022",Tea ?,Drink,Google Pay,,10,-153,FALSE
+"Wednesday, August 3, 2022",Tea ?,Drink,Google Pay,,10,-80,FALSE
+"Thursday, August 4, 2022",Tea ?,Drink,Google Pay,,10,-145,FALSE
+"Friday, August 5, 2022",Tea ?,Drink,Google Pay,,10,-183,FALSE
+"Saturday, August 6, 2022",Tea ?,Drink,Google Pay,,10,2721,TRUE
+"Sunday, August 7, 2022",Soda??,Drink,Google Pay,,10,2668,TRUE
+"Tuesday, August 9, 2022",Tea ?,Drink,Google Pay,,10,-298,FALSE
+"Wednesday, August 10, 2022",Tea ?,Drink,Google Pay,,10,-308,FALSE
+"Wednesday, August 10, 2022",Tea ?,Drink,Google Pay,,10,47,FALSE
+"Thursday, August 11, 2022",Tea,Drink,Google Pay,,10,1981,TRUE
+"Friday, August 12, 2022",Tea ?,Drink,Google Pay,,10,1891,TRUE
+"Tuesday, August 16, 2022",Tea ?,Drink,Google Pay,,10,1801,TRUE
+"Wednesday, August 17, 2022",Tea ?,Drink,Google Pay,,10,1776,TRUE
+"Monday, August 22, 2022",Tea ?,Drink,Google Pay,,10,2052,TRUE
+"Saturday, August 27, 2022",Tea ?,Drink,Google Pay,,10,602,FALSE
+"Saturday, August 27, 2022",Tea ?,Drink,Google Pay,,10,592,FALSE
+"Monday, August 29, 2022",Tea ?,Drink,Google Pay,,10,412,FALSE
+"Wednesday, September 7, 2022",Tea ?,Drink,Google Pay,,10,563,FALSE
+"Friday, September 9, 2022",Tea ?,Drink,Google Pay,,10,27,FALSE
+"Friday, September 9, 2022",Tea ?,Drink,Google Pay,,10,-110,FALSE
+"Saturday, September 10, 2022",Soda??,Drink,Google Pay,,10,-205,FALSE
+"Saturday, September 10, 2022",Tea ?,Drink,Cash,,10,-205,FALSE
+"Sunday, September 11, 2022",Tea ?,Drink,Google Pay,,10,-215,FALSE
+"Monday, September 12, 2022",Tea ?,Drink,Google Pay,,10,455,FALSE
+"Wednesday, September 14, 2022",Tea ?,Drink,Google Pay,,10,262,FALSE
+"Thursday, September 15, 2022",Tea ?,Drink,Google Pay,,10,187,FALSE
+"Sunday, September 18, 2022",Tea ?,Drink,Google Pay,,10,2077,TRUE
+"Monday, September 19, 2022",Soda??,Drink,Google Pay,,10,1879,TRUE
+"Tuesday, September 20, 2022",Tea ?,Drink,Google Pay,,10,1809,TRUE
+"Wednesday, September 21, 2022",Tea ?,Drink,Google Pay,,10,1734,TRUE
+"Friday, September 23, 2022",Tea ?,Drink,Google Pay,,10,178,FALSE
+"Friday, September 23, 2022",Soda??,Drink,Google Pay,,10,168,FALSE
+"Saturday, September 24, 2022",Tea ?,Drink,Google Pay,,10,148,FALSE
+"Saturday, September 24, 2022",Tea ?,Drink,Google Pay,,10,138,FALSE
+"Sunday, September 25, 2022",Tea ?,Drink,Google Pay,,10,-115,FALSE
+"Monday, September 26, 2022",Tea ?,Drink,Amazon Pay,,10,330,FALSE
+"Monday, September 26, 2022",Tea ?,Drink,Google Pay,,10,320,FALSE
+"Monday, March 21, 2022",Pohe,Food,Amazon Pay,,10,4700,TRUE
+"Tuesday, March 22, 2022",Tea,Food,Google Pay,,10,4540,TRUE
+"Friday, March 25, 2022",Umpa,Food,Paytm,,10,3510,TRUE
+"Monday, March 28, 2022",Upma,Food,Google Pay,,10,455,FALSE
+"Wednesday, March 30, 2022",Upma,Food,Amazon Pay,,10,288,FALSE
+"Monday, April 4, 2022",Upma,Food,Google Pay,,10,7018,TRUE
+"Friday, April 8, 2022",Pen,College,Paytm,,10,3948,TRUE
+"Sunday, April 17, 2022",Upma,Food,Google Pay,,10,3254,TRUE
+"Sunday, May 8, 2022",Petrol,Maintenance,Google Pay,,10,6503,TRUE
+"Friday, May 13, 2022",Biscuits,Food,Cash,,10,2832,TRUE
+"Saturday, May 21, 2022",Pav,Food,Google Pay,,10,2226,TRUE
+"Friday, May 27, 2022",Shampoo,Personal,Cash,,10,1426,TRUE
+"Sunday, May 29, 2022",Rajiv Gandhi Zoo to Natu Baug,Travel,Google Pay,,10,1100,TRUE
+"Wednesday, June 1, 2022",Biscuits,Food,Google Pay,,10,6275,TRUE
+"Monday, June 27, 2022",Upma,Food,Google Pay,,10,1095,TRUE
+"Wednesday, June 29, 2022",Tea,Food,Google Pay,,10,925,FALSE
+"Thursday, June 30, 2022",Upma,Food,Google Pay,,10,895,FALSE
+"Monday, July 4, 2022",Upma,Food,Google Pay,,10,4486,TRUE
+"Sunday, July 24, 2022",Peas,Food,Cash,,10,625,FALSE
+"Monday, August 8, 2022",Krack Jack,Food,Google Pay,,10,2533,TRUE
+"Saturday, August 20, 2022",Swargate,Travel,Cash,,10,975,FALSE
+"Saturday, August 27, 2022",Dry Manchurian,Food,Google Pay,,10,582,FALSE
+"Monday, September 19, 2022",Chips,Food,Cash,,10,1889,TRUE
+"Monday, September 19, 2022",Detergent,Maintenance,Google Pay,,10,1869,TRUE
+"Wednesday, September 21, 2022",Soap,Personal,Google Pay,,10,1724,TRUE
+"Friday, September 23, 2022",Biscuits,Food,Google Pay,,10,158,FALSE
+"Saturday, March 19, 2022","Sinnar to Shivaji Nagar, Pune",Travel,Cash,,260,4795,TRUE
+"Saturday, March 19, 2022",Shivaji Nagar to Fursungi,Travel,Cash,,25,4770,TRUE
+"Saturday, March 19, 2022",Sprite,Drink,Cash,,20,4750,TRUE
+"Sunday, March 20, 2022",Fursungi to Pune Station,Travel,Cash,,20,4730,TRUE
+"Monday, March 21, 2022",Lassi,Drink,Paytm,,20,4570,TRUE
+"Monday, March 21, 2022",Room Key,Labour Charges,Amazon Pay,,30,4540,TRUE
+"Wednesday, March 23, 2022",Bed & Pillow,Personal,Paytm,,550,3835,TRUE
+"Wednesday, March 23, 2022",Anand Clinic - Checkup & Medicines,Health,Paytm,,150,3685,TRUE
+"Wednesday, March 23, 2022",Kulfi,Dessert,Cash,,20,3630,TRUE
+"Friday, March 25, 2022",Pune Station to Fursungi,Travel,Cash,,20,3450,TRUE
+"Sunday, March 27, 2022",Fursungi to Pune Station,Travel,Cash,,20,3430,TRUE
+"Sunday, March 27, 2022",Room Rent - March 2022,Rent,Google Pay,,2800,600,FALSE
+"Sunday, March 27, 2022",Room Stuff Contri,Maintenance,Google Pay,,135,465,FALSE
+"Tuesday, March 29, 2022",Mirinda,Drink,Paytm,,20,328,FALSE
+"Wednesday, April 6, 2022",Panipuri,Dessert,Google Pay,,20,6798,TRUE
+"Thursday, April 7, 2022",Room Rent - April 2022,Rent,Google Pay,,2800,3958,TRUE
+"Sunday, April 10, 2022",Grooming,Personal,Google Pay,,100,3688,TRUE
+"Sunday, April 10, 2022",Shampoo,Personal,Paytm,,4,3684,TRUE
+"Monday, April 11, 2022",Lassi,Drink,Google Pay,,35,3559,TRUE
+"Wednesday, April 13, 2022",Pune Station to Fursungi,Travel,Cash,,25,3444,TRUE
+"Friday, April 15, 2022",Fursungi to Pune Station,Travel,Cash,,20,3424,TRUE
+"Friday, April 15, 2022",Flavoured Milk,Drink,Google Pay,,25,3364,TRUE
+"Friday, April 15, 2022",Lassi,Drink,Google Pay,,35,3294,TRUE
+"Wednesday, April 20, 2022",Lassi,Drink,Google Pay,,17,3072,TRUE
+"Wednesday, April 20, 2022",Room Agreement,Rent,Google Pay,,313,2759,TRUE
+"Friday, April 22, 2022",Light Bill - March 2022,Maintenance,Amazon Pay,,142,2457,TRUE
+"Saturday, April 23, 2022",Mop,Maintenance,Amazon Pay,,36,2374,TRUE
+"Saturday, April 23, 2022",Harpic,Maintenance,Google Pay,,8,2366,TRUE
+"Saturday, April 23, 2022",Pune Station to Alandi,Travel,Cash,,25,2341,TRUE
+"Saturday, April 23, 2022",Alandi to Pune Station,Travel,Cash,,30,2256,TRUE
+"Monday, April 25, 2022",Panipuri,Dessert,Google Pay,,15,2134,TRUE
+"Tuesday, April 26, 2022",Stationary,College,Google Pay,,15,2119,TRUE
+"Tuesday, April 26, 2022",Bisleri,Drink,Google Pay,,20,2069,TRUE
+"Wednesday, April 27, 2022",Panipuri,Dessert,Google Pay,,30,2009,TRUE
+"Thursday, April 28, 2022",Bisleri,Drink,Google Pay,,20,494,FALSE
+"Friday, April 29, 2022",Lassi,Drink,Google Pay,,35,394,FALSE
+"Saturday, April 30, 2022",Swimming Pool,Health,Google Pay,,30,349,FALSE
+"Saturday, April 30, 2022",Icecream,Dessert,Google Pay,,30,254,FALSE
+"Sunday, May 1, 2022",Bisleri,Drink,Google Pay,,30,7140,TRUE
+"Tuesday, May 3, 2022",Swimming Pool,Health,Google Pay,,60,7066,TRUE
+"Wednesday, May 4, 2022",Print,College,Google Pay,,13,6923,TRUE
+"Wednesday, May 4, 2022",Swimming,Health,Google Pay,,30,6893,TRUE
+"Thursday, May 5, 2022",Icecream,Dessert,Google Pay,,20,6806,TRUE
+"Friday, May 6, 2022",Mathha,Drink,Google Pay,,20,6736,TRUE
+"Saturday, May 7, 2022",Icecream,Dessert,Google Pay,,30,6706,TRUE
+"Saturday, May 7, 2022",Icecream,Dessert,Google Pay,,20,6632,TRUE
+"Monday, May 9, 2022",Icecream,Dessert,Google Pay,,30,6423,TRUE
+"Tuesday, May 10, 2022",IOT Lab Manual,College,Google Pay,,61,6322,TRUE
+"Tuesday, May 10, 2022",Lassi,Drink,Google Pay,,40,6282,TRUE
+"Wednesday, May 11, 2022",Swimming,Health,Google Pay,,30,6252,TRUE
+"Wednesday, May 11, 2022",DSA Codes & Outputs,College,PhonePe,,65,6187,TRUE
+"Wednesday, May 11, 2022",File & Pages,College,Google Pay,,24,6163,TRUE
+"Wednesday, May 11, 2022",Print,College,Cash,,15,6103,TRUE
+"Wednesday, May 11, 2022",Room Rent - May 2022,Rent,Google Pay,,2800,3303,TRUE
+"Wednesday, May 11, 2022",Cold Coffee,Drink,Google Pay,,15,3292,TRUE
+"Thursday, May 12, 2022",Code of Conduct,College,Google Pay,,16,3246,TRUE
+"Thursday, May 12, 2022",File,College,Google Pay,,25,3221,TRUE
+"Thursday, May 12, 2022",Icecream,Dessert,Google Pay,,30,3191,TRUE
+"Friday, May 13, 2022",Certificates Print,College,Google Pay,,29,3187,TRUE
+"Friday, May 13, 2022",Pune Station to Sinnar,Travel,Cash,,270,2862,TRUE
+"Friday, May 13, 2022",Kulfi,Dessert,Cash,,20,2842,TRUE
+"Wednesday, May 18, 2022",Sinnar to Pune Station,Travel,Cash,,270,2562,TRUE
+"Friday, May 20, 2022",Exam Form Print,College,Google Pay,,15,2342,TRUE
+"Saturday, May 21, 2022",5 Tea,Drink,Google Pay,,50,2182,TRUE
+"Sunday, May 22, 2022",Shampoo,Personal,Google Pay,,4,2187,TRUE
+"Monday, May 23, 2022",Milk,Drink,Google Pay,,15,2008,TRUE
+"Wednesday, May 25, 2022",Light Bill - April 2022,Maintenance,Google Pay,,184,1664,TRUE
+"Wednesday, May 25, 2022",Icecream,Dessert,Google Pay,,30,1574,TRUE
+"Friday, May 27, 2022",Sealing Tape,Personal,Google Pay,,12,1340,TRUE
+"Sunday, May 29, 2022",KEM Hospital to Rajiv Gandhi Zoo,Travel,Google Pay,,20,1170,TRUE
+"Sunday, May 29, 2022",Rajiv Gandhi Zoo,Travel,Google Pay,,40,1130,TRUE
+"Sunday, May 29, 2022",Sugarcane Juice,Drink,Google Pay,,20,1110,TRUE
+"Sunday, May 29, 2022",Rin Soap,Personal,Google Pay,,17,1083,TRUE
+"Sunday, May 29, 2022",Dant Kanti Toothpaste,Personal,Google Pay,,70,1013,TRUE
+"Sunday, May 29, 2022",Carry Bag,Personal,Google Pay,,6,970,FALSE
+"Sunday, May 29, 2022",Softy,Dessert,Google Pay,,15,955,FALSE
+"Sunday, May 29, 2022",Natu Baug to KEM Hospital,Travel,Google Pay,,15,940,FALSE
+"Sunday, May 29, 2022",Badam Shake,Drink,Google Pay,,35,860,FALSE
+"Monday, May 30, 2022",Keto-Z Soap,Personal,Google Pay,,85,775,FALSE
+"Wednesday, June 1, 2022",Pune Station to Sinnar,Travel,Cash,,270,6300,TRUE
+"Sunday, June 5, 2022",Room Rent - June 2022,Rent,Google Pay,,2800,3475,TRUE
+"Friday, June 10, 2022",Water Can,Maintenance,Google Pay,,107,3368,TRUE
+"Saturday, June 11, 2022",Sinnar to Fursungi,Travel,Cash,,250,3118,TRUE
+"Sunday, June 12, 2022",Plumber,Maintenance,Google Pay,,100,3018,TRUE
+"Monday, June 13, 2022",Fursungi to Pune Station,Travel,Cash,,20,2998,TRUE
+"Thursday, June 16, 2022",4 Amul Milk,Drink,Google Pay,,60,2505,TRUE
+"Sunday, June 19, 2022",Pen,College,Paytm,,20,2205,TRUE
+"Friday, June 24, 2022",Shampoo,Personal,Google Pay,,6,1356,TRUE
+"Friday, June 24, 2022",Tea,Drink,Google Pay,,5,1351,TRUE
+"Sunday, July 3, 2022",Badam Shake,Drink,Google Pay,,35,4540,TRUE
+"Monday, July 4, 2022",Vetal Tekadi,Travel,Google Pay,,30,4391,TRUE
+"Monday, July 4, 2022",Light Bill - May 2022,Maintenance,Google Pay,,206,4135,TRUE
+"Tuesday, July 5, 2022",Pune Station to Sinnar,Travel,Cash,,365,3720,TRUE
+"Sunday, July 10, 2022",Room Rent - July 2022,Rent,Google Pay,,2800,920,FALSE
+"Sunday, July 24, 2022",Sinnar to Pune,Travel,Cash,,260,660,FALSE
+"Sunday, July 24, 2022",Wakdewadi to Fursungi,Travel,Cash,,25,635,FALSE
+"Sunday, July 24, 2022",Fursungi to Pune Station,Travel,Cash,,20,605,FALSE
+"Monday, July 25, 2022",Electrician,Maintenance,Google Pay,,50,495,FALSE
+"Monday, July 25, 2022",Tester,Maintenance,Google Pay,,11,484,FALSE
+"Friday, July 29, 2022",Medical,Health,Google Pay,,40,114,FALSE
+"Saturday, July 30, 2022",Ice Cream ??,Dessert,Google Pay,,20,0,FALSE
+"Sunday, July 31, 2022",Ma.na.pa,Travel,Cash,,5,-15,FALSE
+"Sunday, July 31, 2022",Tea ?,Drink,Google Pay,,6,-21,FALSE
+"Sunday, July 31, 2022",Panipuri,Dessert,Google Pay,,25,-46,FALSE
+"Sunday, July 31, 2022",Anjir Shake,Drink,Google Pay,,35,-101,FALSE
+"Sunday, July 31, 2022",Juna Bazar,Travel,Cash,,5,-106,FALSE
+"Tuesday, August 2, 2022",Tea ?,Drink,Google Pay,,6,-159,FALSE
+"Tuesday, August 2, 2022",Coffee ?,Drink,Google Pay,,6,-215,FALSE
+"Friday, August 5, 2022",Tea ?,Drink,Google Pay,,6,-147,FALSE
+"Friday, August 5, 2022",Print,College,Cash,,1,-173,FALSE
+"Saturday, August 6, 2022",Mentos,Dessert,Google Pay,,5,2731,TRUE
+"Sunday, August 7, 2022",Tea ?,Drink,Google Pay,,7,2743,TRUE
+"Monday, August 8, 2022",Farhan's Birthday ??,Bills,Paytm,,60,2558,TRUE
+"Monday, August 8, 2022",Hand Wash,Maintenance,Google Pay,,15,2543,TRUE
+"Monday, August 8, 2022",Coffee ?,Drink,Google Pay,,6,2527,TRUE
+"Tuesday, August 9, 2022",Room Rent - August 2022,Rent,Google Pay,,2800,-273,FALSE
+"Thursday, August 11, 2022",Print,College,Google Pay,,5,2042,TRUE
+"Thursday, August 11, 2022",Rakhi,Personal,Google Pay,,40,1941,TRUE
+"Friday, August 12, 2022",Pune Station to Fursungi,Travel,Cash,,20,1831,TRUE
+"Tuesday, August 16, 2022",Fursungi to Pune Station,Travel,Cash,,20,1811,TRUE
+"Tuesday, August 16, 2022",Ice Cream ??,Dessert,Google Pay,,15,1786,TRUE
+"Wednesday, August 17, 2022",Light Bill - August 2022,Maintenance,Google Pay,,458,5268,TRUE
+"Wednesday, August 17, 2022",Light Connection,Maintenance,Google Pay,,48,5220,TRUE
+"Wednesday, August 17, 2022",College Fee,College,Online,,65044,1276,TRUE
+"Friday, August 19, 2022",Coffee ?,Drink,Google Pay,,6,1106,TRUE
+"Saturday, August 20, 2022",2 Tea ?,Drink,Google Pay,,20,955,FALSE
+"Sunday, August 21, 2022",Ma. Na. Pa,Travel,Cash,,5,2192,TRUE
+"Sunday, August 21, 2022",Juna Bazaar,Travel,Cash,,5,2117,TRUE
+"Sunday, August 21, 2022",Ice Cream ??,Dessert,Google Pay,,20,2097,TRUE
+"Friday, August 26, 2022",Ice Cream ??,Dessert,Google Pay,,25,612,FALSE
+"Sunday, August 28, 2022",Tea ?,Drink,Google Pay,,5,562,FALSE
+"Tuesday, August 30, 2022",Tea ?,Drink,Google Pay,,6,406,FALSE
+"Tuesday, August 30, 2022",Bisleri,Drink,Google Pay,,20,436,FALSE
+"Tuesday, August 30, 2022",Pune to Sinnar,Travel,Cash,,300,158,FALSE
+"Friday, September 2, 2022",Nashik,Travel,Cash,,70,138,FALSE
+"Tuesday, September 6, 2022",Wakdewadi to Pune Station,Travel,Cash,,15,623,FALSE
+"Wednesday, September 7, 2022",Bottle,Personal,Cash,,39,524,FALSE
+"Wednesday, September 7, 2022",Bowl ??,Personal,Cash,,29,495,FALSE
+"Wednesday, September 7, 2022",2 Pen ???,College,Cash,,18,477,FALSE
+"Thursday, September 8, 2022",Garments,Personal,Cash,,130,237,FALSE
+"Thursday, September 8, 2022",Brahmastra - Movie,Entertainment,Google Pay,,200,37,FALSE
+"Friday, September 9, 2022",Victory Theatre,Travel,Cash,,40,-13,FALSE
+"Friday, September 9, 2022",2 Bisleri,Drink,Cash,,40,-150,FALSE
+"Friday, September 9, 2022",Badam Shake,Drink,Google Pay,,30,-195,FALSE
+"Saturday, September 10, 2022",Room Rent - September 2022,Rent,Google Pay,,2800,-205,FALSE
+"Tuesday, September 13, 2022",Tea ?,Drink,Google Pay,,5,352,FALSE
+"Wednesday, September 14, 2022",Kulfi,Dessert,Google Pay,,25,237,FALSE
+"Saturday, September 17, 2022",Pune to Visapur,Travel,Cash,,15,231,FALSE
+"Saturday, September 17, 2022",Tea ?,Drink,Google Pay,,15,201,FALSE
+"Saturday, September 17, 2022",Van,Travel,Google Pay,,40,2161,TRUE
+"Saturday, September 17, 2022",Visapur to Pune,Travel,Cash,,15,2146,TRUE
+"Saturday, September 17, 2022",Milk??,Drink,Google Pay,,15,2117,TRUE
+"Thursday, September 22, 2022",AISA,College,Google Pay,,100,1609,TRUE
+"Thursday, September 22, 2022",Prints,College,Google Pay,,15,1594,TRUE
+"Thursday, September 22, 2022",Tea ?,Drink,Google Pay,,9,1535,TRUE
+"Saturday, September 24, 2022",Light Bill,Maintenance,Google Pay,,128,10,FALSE
+"Sunday, September 25, 2022",Baner Hills,Travel,Cash,,20,-10,FALSE
+"Sunday, September 25, 2022",Tea ?,Drink,Google Pay,,5,-70,FALSE
+"Sunday, September 25, 2022",Juna Bazaar,Travel,Cash,,20,-85,FALSE
+"Saturday, March 19, 2022",Bhel,Food,Cash,,50,5055,TRUE
+"Sunday, March 20, 2022",Vadapav,Food,Cash,,20,4710,TRUE
+"Monday, March 21, 2022",Bhaji Poli,Food,Amazon Pay,,50,4640,TRUE
+"Monday, March 21, 2022",Rice Plate,Food,Paytm,,50,4590,TRUE
+"Wednesday, March 23, 2022",Maggie,Food,Cash,,30,4400,TRUE
+"Wednesday, March 23, 2022",Rice Plate,Food,Amazon Pay,,45,3650,TRUE
+"Thursday, March 24, 2022",Upma,Food,Paytm,,20,3610,TRUE
+"Thursday, March 24, 2022",Bhaji Poli,Food,Paytm,,50,3560,TRUE
+"Thursday, March 24, 2022",Tiffin,Food,Paytm,,40,3520,TRUE
+"Friday, March 25, 2022",Tiffin,Food,Paytm,,40,3470,TRUE
+"Monday, March 28, 2022",Bhaji Poli,Food,Cash,,40,415,FALSE
+"Tuesday, March 29, 2022",Pulaw,Food,PhonePe,,40,348,FALSE
+"Wednesday, March 30, 2022",Bhaji Poli,Food,Paytm,,55,233,FALSE
+"Wednesday, March 30, 2022",Bhaji Poli,Food,Paytm,,35,198,FALSE
+"Saturday, April 2, 2022",Cold Coffee,Food,Paytm,,20,7128,TRUE
+"Thursday, April 7, 2022",Bhaji Poli,Food,Paytm,,40,6758,TRUE
+"Friday, April 8, 2022",Bhaji Poli,Food,Amazon Pay,,40,3908,TRUE
+"Monday, April 18, 2022",Pulaw,Food,Paytm,,40,3164,TRUE
+"Sunday, April 24, 2022",Dry Manchurian,Food,PhonePe,,20,2239,TRUE
+"Monday, May 2, 2022",Pavbhaji,Food,Paytm,,35,7126,TRUE
+"Saturday, May 7, 2022",Pulaw,Food,Amazon Pay,,60,6646,TRUE
+"Wednesday, May 11, 2022",Egg Curry,Food,PhonePe,,45,6118,TRUE
+"Monday, May 23, 2022",Pizza,Food,Paytm,,49,2033,TRUE
+"Wednesday, June 15, 2022",Pav,Food,Paytm,,7,2610,TRUE
+"Sunday, June 19, 2022",Sponge Dosa,Food,Paytm,,40,2165,TRUE
+"Monday, July 25, 2022",Chaat,Food,Paytm,,45,439,FALSE
+"Wednesday, July 27, 2022",Wadapav,Food,Amazon Pay,,15,334,FALSE
+"Tuesday, August 23, 2022",Mess,Food,Cash,,1300,717,FALSE
+"Thursday, September 22, 2022",Mess,Food,Cash,,1300,238,FALSE
+"Tuesday, March 22, 2022",Bhaji Poli,Food,Google Pay,,50,4490,TRUE
+"Tuesday, March 22, 2022",Tiffin,Food,Google Pay,,60,4430,TRUE
+"Wednesday, March 23, 2022",Vadapav,Food,Google Pay,,15,4385,TRUE
+"Sunday, March 27, 2022",Bhaji Poli,Food,Google Pay,,30,3400,TRUE
+"Monday, March 28, 2022",Bhaji Poli,Food,Google Pay,,30,385,FALSE
+"Tuesday, March 29, 2022",Bhaji Poli,Food,Google Pay,,30,298,FALSE
+"Thursday, March 31, 2022",Bhaji Poli,Food,Google Pay,,55,143,FALSE
+"Friday, April 1, 2022",Pohe,Food,Google Pay,,20,7228,TRUE
+"Friday, April 1, 2022",Masala Dosa,Food,Google Pay,,30,7198,TRUE
+"Saturday, April 2, 2022",Masala Dosa,Food,Google Pay,,50,7148,TRUE
+"Sunday, April 3, 2022",Manchurian,Food,Google Pay,,80,7048,TRUE
+"Sunday, April 3, 2022",Sugarcane Juice,Food,Google Pay,,20,7028,TRUE
+"Monday, April 4, 2022",Pulaw,Food,Google Pay,,40,6978,TRUE
+"Monday, April 4, 2022",Chicken Biryani,Food,Google Pay,,55,6923,TRUE
+"Tuesday, April 5, 2022",Bhaji Poli,Food,Google Pay,,50,6873,TRUE
+"Wednesday, April 6, 2022",Vadapav,Food,Google Pay,,15,6858,TRUE
+"Wednesday, April 6, 2022",Bhaji Poli,Food,Google Pay,,40,6818,TRUE
+"Saturday, April 9, 2022",Fried Rice,Food,Google Pay,,60,3848,TRUE
+"Sunday, April 10, 2022",Misal Pav,Food,Google Pay,,60,3788,TRUE
+"Sunday, April 10, 2022",Bhaji Poli,Food,Google Pay,,50,3634,TRUE
+"Monday, April 11, 2022",Masala Dosa,Food,Google Pay,,30,3594,TRUE
+"Tuesday, April 12, 2022",Bhaji Poli,Food,Google Pay,,50,3509,TRUE
+"Wednesday, April 13, 2022",Bhaji Poli,Food,Google Pay,,40,3469,TRUE
+"Friday, April 15, 2022",Maggie,Food,Google Pay,,35,3389,TRUE
+"Friday, April 15, 2022",Bhaji Poli,Food,Google Pay,,40,3329,TRUE
+"Saturday, April 16, 2022",Samosa Chaat,Food,Google Pay,,30,3264,TRUE
+"Sunday, April 17, 2022",Bhel,Food,Google Pay,,30,3224,TRUE
+"Sunday, April 17, 2022",Dry Manchurian,Food,Google Pay,,20,3204,TRUE
+"Wednesday, April 20, 2022",Misal,Food,Google Pay,,65,3089,TRUE
+"Thursday, April 21, 2022",Vada Sambhar,Food,Google Pay,,40,2719,TRUE
+"Thursday, April 21, 2022",Sponge Dosa,Food,Google Pay,,30,2689,TRUE
+"Thursday, April 21, 2022",8 Bananas,Food,Google Pay,,30,2659,TRUE
+"Friday, April 22, 2022",Triple Rice,Food,Google Pay,,50,2599,TRUE
+"Saturday, April 23, 2022",Paratha,Food,Google Pay,,50,2410,TRUE
+"Saturday, April 23, 2022",Chaat,Food,Google Pay,,55,2286,TRUE
+"Monday, April 25, 2022",Pohe,Food,Google Pay,,20,2209,TRUE
+"Monday, April 25, 2022",Bhaji Poli,Food,Google Pay,,40,2159,TRUE
+"Tuesday, April 26, 2022",Aloo Paratha,Food,Google Pay,,30,2089,TRUE
+"Wednesday, April 27, 2022",Masala Dosa,Food,Google Pay,,30,2039,TRUE
+"Wednesday, April 27, 2022",Triveni Mess,Food,Google Pay,,1400,609,FALSE
+"Wednesday, April 27, 2022",Chicken Biryani,Food,Google Pay,,55,554,FALSE
+"Thursday, April 28, 2022",SPDP,Food,Google Pay,,30,514,FALSE
+"Thursday, April 28, 2022",Bread Sandwich,Food,Google Pay,,15,479,FALSE
+"Friday, April 29, 2022",Bhaji Poli,Food,Google Pay,,40,429,FALSE
+"Friday, April 29, 2022",Break Sandwich,Food,Google Pay,,15,379,FALSE
+"Saturday, April 30, 2022",Vadapav,Food,Google Pay,,20,329,FALSE
+"Saturday, April 30, 2022",Veg Biryani,Food,Google Pay,,45,284,FALSE
+"Sunday, May 1, 2022",Chhole Bature,Food,Google Pay,,80,7170,TRUE
+"Monday, May 2, 2022",Sponge Dosa,Food,Google Pay,,30,7161,TRUE
+"Tuesday, May 3, 2022",Samosa,Food,Google Pay,,20,7046,TRUE
+"Tuesday, May 3, 2022",Wada Pav,Food,Google Pay,,20,7026,TRUE
+"Tuesday, May 3, 2022",Pulaw,Food,Google Pay,,60,6966,TRUE
+"Wednesday, May 4, 2022",Aloo Paratha,Food,Google Pay,,30,6936,TRUE
+"Thursday, May 5, 2022",Sabudana Khichdi,Food,Google Pay,,40,6846,TRUE
+"Thursday, May 5, 2022",Banana,Food,Google Pay,,20,6826,TRUE
+"Friday, May 6, 2022",Puri Bhaji,Food,Google Pay,,50,6756,TRUE
+"Sunday, May 8, 2022",Patis,Food,Google Pay,,25,6597,TRUE
+"Sunday, May 8, 2022",Veg Burger,Food,Google Pay,,84,6513,TRUE
+"Monday, May 9, 2022",Bhaji Poli,Food,Google Pay,,50,6453,TRUE
+"Tuesday, May 10, 2022",Aloo Paratha,Food,Google Pay,,40,6383,TRUE
+"Thursday, May 12, 2022",Aloo Paratha,Food,Google Pay,,30,3262,TRUE
+"Friday, May 13, 2022",Bhaji Poli,Food,Google Pay,,55,3132,TRUE
+"Thursday, May 19, 2022",Banana Chips,Food,Google Pay,,100,2462,TRUE
+"Thursday, May 19, 2022",Pulaw,Food,Google Pay,,60,2402,TRUE
+"Friday, May 20, 2022",Bhaji Poli,Food,Google Pay,,45,2357,TRUE
+"Friday, May 20, 2022",Maya's Mess,Food,Google Pay,,70,2272,TRUE
+"Saturday, May 21, 2022",Sponge Dosa,Food,Google Pay,,30,2242,TRUE
+"Saturday, May 21, 2022",Kadhai Paneer,Food,Google Pay,,35,2191,TRUE
+"Sunday, May 22, 2022",Puri Bhaji,Food,Google Pay,,40,2147,TRUE
+"Sunday, May 22, 2022",Tandoor Biryani,Food,Google Pay,,65,2082,TRUE
+"Tuesday, May 24, 2022",Aloo Paratha,Food,Google Pay,,40,1968,TRUE
+"Tuesday, May 24, 2022",Bhaji Poli Tiffin,Food,Google Pay,,60,1898,TRUE
+"Wednesday, May 25, 2022",Wadapav,Food,Google Pay,,15,1883,TRUE
+"Wednesday, May 25, 2022",Aloo Paratha,Food,Google Pay,,25,1858,TRUE
+"Wednesday, May 25, 2022",Bhaji Poli Tiffin,Food,Google Pay,,60,1604,TRUE
+"Thursday, May 26, 2022",Rice Plate,Food,Google Pay,,50,1524,TRUE
+"Thursday, May 26, 2022",Noodles,Food,Google Pay,,43,1471,TRUE
+"Friday, May 27, 2022",Fruit Plate,Food,Google Pay,,30,1441,TRUE
+"Friday, May 27, 2022",Kurkure,Food,Google Pay,,5,1436,TRUE
+"Friday, May 27, 2022",Biryani,Food,Google Pay,,74,1352,TRUE
+"Saturday, May 28, 2022",Pawale Misal,Food,Google Pay,,70,1275,TRUE
+"Saturday, May 28, 2022",Masala Cut Dosa,Food,Google Pay,,45,1230,TRUE
+"Sunday, May 29, 2022",Indori Pohe,Food,Google Pay,,20,1200,TRUE
+"Sunday, May 29, 2022",Chheda Banana Chips,Food,Google Pay,,37,976,FALSE
+"Sunday, May 29, 2022",Dabeli,Food,Google Pay,,15,925,FALSE
+"Sunday, May 29, 2022",Ragada Patis,Food,Google Pay,,30,895,FALSE
+"Monday, May 30, 2022",Aloo Paratha,Food,Google Pay,,40,735,FALSE
+"Monday, May 30, 2022",Bhaji Poli Tiffin,Food,Google Pay,,60,675,FALSE
+"Tuesday, May 31, 2022",Tari Pohe,Food,Google Pay,,20,655,FALSE
+"Tuesday, May 31, 2022",Cut Masala Dosa,Food,Google Pay,,45,610,FALSE
+"Wednesday, June 1, 2022",Wada Sambhar,Food,Google Pay,,40,6570,TRUE
+"Wednesday, June 1, 2022",Dabeli,Food,Google Pay,,15,6285,TRUE
+"Monday, June 13, 2022",Veg Burger,Food,Google Pay,,50,2938,TRUE
+"Tuesday, June 14, 2022",Grocery,Food,Google Pay,,281,2657,TRUE
+"Tuesday, June 14, 2022",Paneer Garlic Bread,Food,Google Pay,,30,2617,TRUE
+"Wednesday, June 15, 2022",Paneer Makhani,Food,Google Pay,,35,2575,TRUE
+"Thursday, June 16, 2022",Pavbhaji,Food,Google Pay,,40,2465,TRUE
+"Friday, June 17, 2022",Kokani Pohe,Food,Google Pay,,20,2445,TRUE
+"Friday, June 17, 2022",Bhel,Food,Google Pay,,35,2400,TRUE
+"Saturday, June 18, 2022",Shabudana Khichdi,Food,Google Pay,,50,2350,TRUE
+"Saturday, June 18, 2022",Tawa Pulaw,Food,Google Pay,,50,2300,TRUE
+"Sunday, June 19, 2022",Dahi Pohe,Food,Google Pay,,25,2275,TRUE
+"Sunday, June 19, 2022",Aloo Paratha,Food,Google Pay,,40,2235,TRUE
+"Monday, June 20, 2022",Indori Pohe,Food,Google Pay,,20,2145,TRUE
+"Monday, June 20, 2022",Bhaji Poli,Food,Google Pay,,50,2095,TRUE
+"Monday, June 20, 2022",Triveni Mess,Food,Google Pay,,300,1795,TRUE
+"Monday, June 20, 2022",Dum Biryani,Food,Google Pay,,55,1740,TRUE
+"Tuesday, June 21, 2022",Misal,Food,Google Pay,,60,1680,TRUE
+"Tuesday, June 21, 2022",Pav,Food,Google Pay,,14,1666,TRUE
+"Tuesday, June 21, 2022",Grocery,Food,Google Pay,,88,1578,TRUE
+"Wednesday, June 22, 2022",2 Samose,Food,Google Pay,,36,1542,TRUE
+"Wednesday, June 22, 2022",Dosa,Food,Google Pay,,30,1512,TRUE
+"Thursday, June 23, 2022",Kurkure Pohe,Food,Google Pay,,20,1492,TRUE
+"Thursday, June 23, 2022",Misal Pav,Food,Google Pay,,70,1422,TRUE
+"Friday, June 24, 2022",Bhaji Poli,Food,Google Pay,,50,1362,TRUE
+"Friday, June 24, 2022",Chips,Food,Google Pay,,20,1331,TRUE
+"Friday, June 24, 2022",Bhaji Poli,Food,Google Pay,,50,1281,TRUE
+"Saturday, June 25, 2022",Bhaji Poli,Food,Google Pay,,50,1221,TRUE
+"Saturday, June 25, 2022",Bhaji Poli,Food,Google Pay,,50,1171,TRUE
+"Sunday, June 26, 2022",Bhurji Pav,Food,Google Pay,,50,1111,TRUE
+"Sunday, June 26, 2022",Pav,Food,Google Pay,,9,1102,TRUE
+"Monday, June 27, 2022",Tawa Pulaw,Food,Google Pay,,50,1035,TRUE
+"Tuesday, June 28, 2022",Bhaji Poli,Food,Google Pay,,50,985,FALSE
+"Wednesday, June 29, 2022",Aloo Paratha,Food,Google Pay,,40,935,FALSE
+"Wednesday, June 29, 2022",Kurkure,Food,Google Pay,,20,905,FALSE
+"Thursday, June 30, 2022",Pulaw,Food,Google Pay,,40,855,FALSE
+"Thursday, June 30, 2022",Bhaje,Food,Google Pay,,20,835,FALSE
+"Friday, July 1, 2022",Chilli Cheese Burger ??,Food,Google Pay,,60,4605,TRUE
+"Sunday, July 3, 2022",Chips and Biscuits,Food,Google Pay,,44,4496,TRUE
+"Monday, July 4, 2022",Chicken Fried Rice,Food,Google Pay,,55,4421,TRUE
+"Monday, July 4, 2022",Veg Burger ??,Food,Google Pay,,50,4341,TRUE
+"Tuesday, July 5, 2022",Wada Sambhar,Food,Google Pay,,40,4095,TRUE
+"Sunday, July 24, 2022",Egg Rice,Food,Google Pay,,60,545,FALSE
+"Monday, July 25, 2022",Wadapav,Food,Google Pay,,15,424,FALSE
+"Tuesday, July 26, 2022",Egg Curry,Food,Google Pay,,55,359,FALSE
+"Wednesday, July 27, 2022",Bhaji Poli,Food,Google Pay,,50,284,FALSE
+"Thursday, July 28, 2022",Pawale Misal,Food,Google Pay,,70,204,FALSE
+"Friday, July 29, 2022",Sponge Dosa,Food,Google Pay,,40,154,FALSE
+"Friday, July 29, 2022",Grocery,Food,Google Pay,,74,30,FALSE
+"Sunday, July 31, 2022",Samosa,Food,Google Pay,,20,-66,FALSE
+"Monday, August 1, 2022",Aloo Paratha,Food,Google Pay,,40,-143,FALSE
+"Tuesday, August 2, 2022",Puri Bhaji,Food,Google Pay,,50,-209,FALSE
+"Wednesday, August 3, 2022",Upma,Food,Google Pay,,15,-30,FALSE
+"Wednesday, August 3, 2022",Aloo Paratha,Food,Google Pay,,25,-55,FALSE
+"Wednesday, August 3, 2022",Dabeli,Food,Google Pay,,15,-70,FALSE
+"Thursday, August 4, 2022",Dabeli,Food,Google Pay,,15,-95,FALSE
+"Thursday, August 4, 2022",Pulaw,Food,Google Pay,,40,-135,FALSE
+"Friday, August 5, 2022",Aloo Paratha,Food,Google Pay,,25,-172,FALSE
+"Friday, August 5, 2022",Grocery,Food,Google Pay,,58,-241,FALSE
+"Saturday, August 6, 2022",Oreo,Food,Google Pay,,23,-264,FALSE
+"Sunday, August 7, 2022",Wadapav,Food,Google Pay,,15,2750,TRUE
+"Sunday, August 7, 2022",Pulaw,Food,Google Pay,,50,2693,TRUE
+"Sunday, August 7, 2022",Dabeli,Food,Google Pay,,15,2678,TRUE
+"Monday, August 8, 2022",Rice Plate,Food,Google Pay,,50,2618,TRUE
+"Tuesday, August 9, 2022",Patis,Food,Google Pay,,15,-288,FALSE
+"Wednesday, August 10, 2022",Paneer Paratha,Food,Google Pay,,35,-343,FALSE
+"Thursday, August 11, 2022",Aloo Paratha,Food,Google Pay,,25,2017,TRUE
+"Thursday, August 11, 2022",Dabeli,Food,Google Pay,,15,2006,TRUE
+"Thursday, August 11, 2022",Patis,Food,Google Pay,,15,1991,TRUE
+"Friday, August 12, 2022",Wada Sambhar,Food,Google Pay,,40,1901,TRUE
+"Friday, August 12, 2022",Wada Sambhar,Food,Google Pay,,40,1851,TRUE
+"Wednesday, August 17, 2022",Rice Plate,Food,Google Pay,,50,5726,TRUE
+"Wednesday, August 17, 2022",Veg Burger ??,Food,Google Pay,,50,1226,TRUE
+"Wednesday, August 17, 2022",Ragda Patis,Food,Google Pay,,35,1191,TRUE
+"Thursday, August 18, 2022",Rice Plate,Food,Google Pay,,40,1151,TRUE
+"Friday, August 19, 2022",Patis,Food,Google Pay,,15,1136,TRUE
+"Friday, August 19, 2022",Samosa Chaat,Food,Google Pay,,30,1106,TRUE
+"Friday, August 19, 2022",Grocery,Food,Google Pay,,71,1035,TRUE
+"Friday, August 19, 2022",Masala Pav,Food,Google Pay,,50,985,FALSE
+"Saturday, August 20, 2022",3 Tea ?,Food,Google Pay,,30,925,FALSE
+"Saturday, August 20, 2022",Monaco,Food,Google Pay,,28,2197,TRUE
+"Sunday, August 21, 2022",Mini Thali,Food,Google Pay,,70,2122,TRUE
+"Monday, August 22, 2022",Pohe,Food,Google Pay,,20,2077,TRUE
+"Monday, August 22, 2022",Samosa,Food,Google Pay,,15,2062,TRUE
+"Tuesday, August 23, 2022",Rice Plate ???,Food,Google Pay,,40,2012,TRUE
+"Wednesday, August 24, 2022",Rice Plate ???,Food,Google Pay,,40,677,FALSE
+"Thursday, August 25, 2022",Peas,Food,Google Pay,,5,672,FALSE
+"Friday, August 26, 2022",Paneer Paratha,Food,Google Pay,,35,637,FALSE
+"Sunday, August 28, 2022",Upma,Food,Google Pay,,15,567,FALSE
+"Sunday, August 28, 2022",Tikka Biryani,Food,Google Pay,,65,497,FALSE
+"Monday, August 29, 2022",Aloo Paratha,Food,Google Pay,,25,472,FALSE
+"Monday, August 29, 2022",Dahi Bhel,Food,Google Pay,,30,442,FALSE
+"Monday, August 29, 2022",Dry Manchurian,Food,Google Pay,,20,422,FALSE
+"Tuesday, August 30, 2022",Rice Plate ???,Food,Google Pay,,50,356,FALSE
+"Wednesday, September 7, 2022",Rice Plate ???,Food,Google Pay,,50,573,FALSE
+"Thursday, September 8, 2022",Wada Sambhar,Food,Google Pay,,15,462,FALSE
+"Thursday, September 8, 2022",Rice Plate ???,Food,Google Pay,,50,412,FALSE
+"Thursday, September 8, 2022",Grocery,Food,Google Pay,,45,367,FALSE
+"Friday, September 9, 2022",Veg Burger ??,Food,Google Pay,,87,-100,FALSE
+"Friday, September 9, 2022",Wadapav,Food,Google Pay,,15,-165,FALSE
+"Sunday, September 11, 2022",Dum Biryani,Food,Google Pay,,80,-295,FALSE
+"Monday, September 12, 2022",Aloo Paratha,Food,Google Pay,,25,480,FALSE
+"Monday, September 12, 2022",Dabeli,Food,Google Pay,,15,465,FALSE
+"Monday, September 12, 2022",Grocery,Food,Google Pay,,53,402,FALSE
+"Monday, September 12, 2022",Biscuits,Food,Google Pay,,5,397,FALSE
+"Tuesday, September 13, 2022",Bhaji Poli,Food,Google Pay,,40,357,FALSE
+"Tuesday, September 13, 2022",Banana Chips,Food,Google Pay,,50,302,FALSE
+"Wednesday, September 14, 2022",Samosa Chaat,Food,Google Pay,,30,272,FALSE
+"Thursday, September 15, 2022",Chhole Bhature,Food,Google Pay,,40,197,FALSE
+"Friday, September 16, 2022",Misal & Mattha,Food,Google Pay,,126,61,FALSE
+"Saturday, September 17, 2022",Biscuits,Food,Google Pay,,15,246,FALSE
+"Saturday, September 17, 2022",Wadapav,Food,Google Pay,,15,216,FALSE
+"Saturday, September 17, 2022",Dry Manchurian,Food,Google Pay,,20,2126,TRUE
+"Sunday, September 18, 2022",Wada Sambhar,Food,Google Pay,,30,2087,TRUE
+"Sunday, September 18, 2022",Samosa,Food,Google Pay,,18,2059,TRUE
+"Sunday, September 18, 2022",Bhurji Pav,Food,Google Pay,,57,2002,TRUE
+"Sunday, September 18, 2022",Grocery,Food,Google Pay,,58,1944,TRUE
+"Monday, September 19, 2022",Chhole Bhature,Food,Google Pay,,45,1899,TRUE
+"Tuesday, September 20, 2022",Veg Roll,Food,Google Pay,,50,1819,TRUE
+"Tuesday, September 20, 2022",Wadapav,Food,Google Pay,,20,1789,TRUE
+"Wednesday, September 21, 2022",Puri Bhaji,Food,Google Pay,,45,1744,TRUE
+"Thursday, September 22, 2022",Upma,Food,Google Pay,,15,1709,TRUE
+"Thursday, September 22, 2022",Bhurji Paratha,Food,Google Pay,,50,1544,TRUE
+"Friday, September 23, 2022",Pohe,Food,Google Pay,,20,218,FALSE
+"Friday, September 23, 2022",Misal Pav,Food,Google Pay,,30,188,FALSE
+"Sunday, September 25, 2022",Chips,Food,Google Pay,,40,-50,FALSE
+"Sunday, September 25, 2022",Wada Sambhar,Food,Google Pay,,15,-65,FALSE
+"Sunday, September 25, 2022",Pizza Party,Food,Google Pay,,20,-105,FALSE
+"Sunday, September 25, 2022",Masala Cut Dosa,Food,Google Pay,,45,340,FALSE
+"Tuesday, September 27, 2022",Breakfast,Food,Google Pay,,25,295,FALSE
+"Tuesday, September 27, 2022",Breakfast,Food,Google Pay,,20,275,FALSE
+"Tuesday, March 1, 2022",Budget,Money,Online,5000,,5000,TRUE
+"Wednesday, March 2, 2022",Cashback,Bonus,Google Pay,5,,5005,TRUE
+"Friday, March 4, 2022",Cashback,Bonus,Paytm,100,,5105,TRUE
+"Monday, March 21, 2022",Cashback,Bonus,Paytm,10,,4550,TRUE
+"Wednesday, March 23, 2022",Cashback,Bonus,Paytm,10,,3695,TRUE
+"Monday, March 28, 2022",Cashback,Bonus,Amazon Pay,3,,388,FALSE
+"Thursday, March 31, 2022",Cashback,Bonus,Google Pay,5,,148,FALSE
+"Thursday, March 31, 2022",Cashback,Bonus,Paytm,100,,248,FALSE
+"Friday, April 1, 2022",Budget,Money,Online,7000,,7248,TRUE
+"Friday, April 15, 2022",Cashback,Bonus,Google Pay,5,,3369,TRUE
+"Friday, April 22, 2022",Cashback,Bonus,Amazon Pay,3,,2460,TRUE
+"Sunday, April 24, 2022",Cashback,Bonus,Amazon Pay,3,,2259,TRUE
+"Sunday, May 1, 2022",Budget,Money,Online,7000,,7254,TRUE
+"Sunday, May 1, 2022",Interest,Bonus,Online,6,,7260,TRUE
+"Monday, May 2, 2022",Cashback,Bonus,Google Pay,51,,7191,TRUE
+"Wednesday, May 4, 2022",Cashback,Bonus,Amazon Pay,3,,6886,TRUE
+"Saturday, May 7, 2022",Cashback,Bonus,Amazon Pay,6,,6652,TRUE
+"Wednesday, May 11, 2022",Cashback,Bonus,Google Pay,4,,3307,TRUE
+"Friday, May 13, 2022",Cashback,Bonus,Amazon Pay,25,,3216,TRUE
+"Saturday, May 21, 2022",Cashback,Bonus,Google Pay,54,,2236,TRUE
+"Saturday, May 28, 2022",Cashback,Bonus,Google Pay,5,,1345,TRUE
+"Wednesday, June 1, 2022",Budget,Money,Online,6000,,6610,TRUE
+"Sunday, June 26, 2022",Cashback,Bonus,Google Pay,3,,1105,TRUE
+"Friday, July 1, 2022",Budget,Money,Online,3840,,4665,TRUE
+"Monday, August 1, 2022",Interest,Bonus,Online,3,,-103,FALSE
+"Tuesday, August 2, 2022",Received From Pappa,Money,PhonePe,200,,-15,FALSE
+"Thursday, August 4, 2022",Cashback,Bonus,Google Pay,4,,-141,FALSE
+"Saturday, August 6, 2022",Budget,Money,PhonePe,3000,,2736,TRUE
+"Saturday, August 6, 2022",Mess,Food,Google Pay,44,,2765,TRUE
+"Wednesday, August 10, 2022",Harish,Rent,Google Pay,400,,57,FALSE
+"Wednesday, August 10, 2022",Received From Pappa,Money,PhonePe,2000,,2047,TRUE
+"Thursday, August 11, 2022",Cashback,Bonus,Google Pay,4,,2021,TRUE
+"Wednesday, August 17, 2022",Received From Rahul Mama,Money,Google Pay,4000,,5776,TRUE
+"Wednesday, August 17, 2022",Education Loan,Money,Online,61100,,66320,TRUE
+"Friday, August 19, 2022",Cashback,Bonus,Google Pay,6,,1112,TRUE
+"Saturday, August 20, 2022",Received From Pappa,Money,PhonePe,1300,,2225,TRUE
+"Tuesday, August 23, 2022",Cashback,Bonus,Google Pay,5,,2017,TRUE
+"Tuesday, August 30, 2022",Received From Pappa,Money,PhonePe,100,,456,FALSE
+"Tuesday, August 30, 2022",Self Transfer,Money,Google Pay,22,,458,FALSE
+"Friday, September 2, 2022",Cash,Money,Cash,50,,208,FALSE
+"Tuesday, September 6, 2022",Cash,Money,Cash,500,,638,FALSE
+"Saturday, September 10, 2022",Cashback,Bonus,Google Pay,10,,-195,FALSE
+"Saturday, September 10, 2022",Received From Pappa,Money,PhonePe,2800,,2595,TRUE
+"Monday, September 12, 2022",Received From Pappa,Money,Google Pay,800,,505,FALSE
+"Friday, September 16, 2022",Received From Pappa,Money,PhonePe,200,,261,FALSE
+"Saturday, September 17, 2022",Received From Mummy,Money,PhonePe,2000,,2201,TRUE
+"Saturday, September 17, 2022",Cashback,Bonus,Google Pay,6,,2132,TRUE
+"Thursday, September 22, 2022",Cashback,Bonus,Google Pay,3,,1538,TRUE
+"Sunday, September 25, 2022",Interest,Bonus,Online,5,,-65,FALSE
+"Sunday, September 25, 2022",Received From Mummy,Money,PhonePe,500,,385,FALSE
